@@ -18,6 +18,7 @@ These algorithms will make it easier for the research community and industry to 
 **Note: Despite its simplicity of use, Stable Baselines3 (SB3) assumes you have some knowledge about Reinforcement Learning (RL).** You should not utilize this library without some practice. To that extent, we provide good resources in the [documentation](https://stable-baselines3.readthedocs.io/en/master/guide/rl.html) to get started with RL.
 
 ## Main Features
+## By Mudassir Alam
 
 **The performance of each algorithm was tested** (see *Results* section in their respective page),
 you can take a look at the issues [#48](https://github.com/DLR-RM/stable-baselines3/issues/48) and [#49](https://github.com/DLR-RM/stable-baselines3/issues/49) for more details.
